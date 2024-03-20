@@ -1,0 +1,14 @@
+C:\teste de programação\ReverterString\bin\Debug\net8.0\ReverterString.exe
+C:\teste de programação\ReverterString\bin\Debug\net8.0\ReverterString.deps.json
+C:\teste de programação\ReverterString\bin\Debug\net8.0\ReverterString.runtimeconfig.json
+C:\teste de programação\ReverterString\bin\Debug\net8.0\ReverterString.dll
+C:\teste de programação\ReverterString\bin\Debug\net8.0\ReverterString.pdb
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.AssemblyInfoInputs.cache
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.AssemblyInfo.cs
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.csproj.CoreCompileInputs.cache
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.dll
+C:\teste de programação\ReverterString\obj\Debug\net8.0\refint\ReverterString.dll
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.pdb
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ReverterString.genruntimeconfig.cache
+C:\teste de programação\ReverterString\obj\Debug\net8.0\ref\ReverterString.dll
